@@ -1,0 +1,4 @@
+N: "GEO DZEMGI 38"
+L: <BLUE, full>
+L: * Зона N6 Пилотажная зона * UHGEO56P1, UHGEO56P2, UHGEO56P3, UHGEO56P4
+, UHGEO56P5

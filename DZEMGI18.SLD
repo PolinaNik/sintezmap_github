@@ -1,0 +1,4 @@
+N: "GEO DZEMGI 18"
+L: <BLUE, full>
+L: * Маршрут N18 Тренировочные полеты * UHGEO17P1, UHGEO17P2, UHGEO17P3, UHGEO17P4
+, UHGEO17P5

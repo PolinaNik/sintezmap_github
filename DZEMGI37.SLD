@@ -1,0 +1,4 @@
+N: "GEO DZEMGI 37"
+L: <BLUE, full>
+L: * Зона N5 Пилотажная зона * UHGEO55P1, UHGEO55P2, UHGEO55P3, UHGEO55P4
+, UHGEO55P5

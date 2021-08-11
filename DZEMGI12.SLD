@@ -1,0 +1,4 @@
+N: "GEO DZEMGI 12"
+L: <BLUE, full>
+L: * Маршрут N11 Испытательные полеты * UHGEO11P1, UHGEO11P2, UHGEO11P3, UHGEO11P4
+, UHGEO11P5

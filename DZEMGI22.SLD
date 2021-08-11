@@ -1,0 +1,4 @@
+N: "GEO DZEMGI 22"
+L: <BLUE, full>
+L: * Маршрут N22 Тренировочные полеты * UHGEO21P1, UHGEO21P2, UHGEO21P3, UHGEO21P4
+, UHGEO21P5, UHGEO21P6

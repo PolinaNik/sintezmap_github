@@ -1,0 +1,4 @@
+N: "GEO HURBA 7"
+L: <BLUE, full>
+L: * Маршрут N1рп Разведка погоды * UHGEO37P1, UHGEO37P2, UHGEO37P3, UHGEO37P4
+, UHGEO37P5

@@ -1,0 +1,3 @@
+N: "STAR(18H)"
+
+L: <BLUE, normal> NF101, NF590, NF99, NF101

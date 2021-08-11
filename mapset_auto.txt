@@ -1,0 +1,25 @@
+Level 0 threshold: 250
+Level 1 threshold: 500
+Level 2 threshold: 1000
+FreeType rendering: 1
+Background color: #a0a0a0
+Runway color: #000000
+Occupied color: #ff0000
+Structure color: #606060
+Route color: #909090
+Local route color: #909090
+Sector color: #b4b4b4
+Closed color: #aa9a9a
+Bound color: #907000
+Grid color: #878787
+Shore color: #1b72bb
+Land color: #a6a6a0
+Sea color: #9898a8
+State border color: #aa8700
+Designator color: #526600
+Structure font: -*-*-medium-r-normal--14-*-*-*-m-*-koi8-*
+Designator font: -*-*-medium-r-normal--14-*-*-*-m-*-koi8-*
+Forest stipple: 8855225588552255
+Sector stipple: aa55aa55aa55aa55
+Route width: 4
+Local route width: 4

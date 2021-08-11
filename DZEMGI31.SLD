@@ -1,0 +1,4 @@
+N: "GEO DZEMGI 31"
+L: <BLUE, full>
+L: * Маршрут N5рп Разведка погоды * UHGEO30P1, UHGEO30P2, UHGEO30P3, UHGEO30P4
+, UHGEO30P5, UHGEO30P6

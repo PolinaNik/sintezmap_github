@@ -1,0 +1,39 @@
+points 3~ПОД/ПДЗ международные~
+routes~Трассы/МЗН международные~
+designators~Десигнаторы трасс/МЗН международных~
+local points~ПОД/ПДЗ МВЛ~
+local routes~Трассы МВЛ~
+bl - loc. des.~Десигнаторы трасс МВЛ~
+rad. Hab. MVRL~Р/л Хабаровск МВРЛ~
+rad. Komsomolsk~Р/л Комсомольск-На-Амуре~
+rad. Nikolayev.~Р/л Николаевск-На-Амуре~
+rad. Cher. Kust~Р/л Черный Куст~
+rad. Magdagachi~Р/л Магдагачи~
+rad. Sov. Gavan~Р/л Советская Гавань~
+rad. Blagov.~Р/л Благовещенск~
+rad. Svetlaya~Р/л Светлая~
+rad. Dalnerech.~Р/л Дальнереченск~
+rad. Kavalerovo~Р/л Кавалерово~
+rad. Oha~Р/л Оха~
+rad. Ohotsk~Р/л Охотск~
+rad. Yuzhno-S.~Р/л Южно-Сахалинск~
+rad. Arhara~Р/л Архара~
+rad. Ekimchan~Р/л Экимчан~
+struc.(f.)-RC1s~Сектор РЦ-1~
+struc.(f.)-RC2~Сектор РЦ-2~
+struc.(f.)-RC3~Сектор РЦ-3~
+struc.(f.)-RC4~Сектор РЦ-4~
+struc.(f.)-RC5s~Сектор РЦ-5~
+struc.(f.)-RC6s~Сектор РЦ-6~
+struc.(f.)-RC7s~Сектор РЦ-7~
+struc.(f.)-RC8s~Сектор РЦ-8~
+struc.(f.)-RC9~Сектор РЦ-9~
+struc.(f.)-RCAs~Сектор РЦ-10~
+struc.(f.)-RCB~Сектор РЦ-11~
+struc.(f.)-RCC~Сектор РЦ-12~
+struc.(f.)-RCFs~Сектор РЦ-13~
+struc.(f.)-RCEs~Сектор РЦ-14~
+struc.(f.)-RCM1~Сектор РЦ-15~
+struc.(f.)-RCM2~Сектор РЦ-16~
+struc.(f.)-A1~Сектор АДЦ-PM~
+struc.(f.)-A2~Сектор Хбр АДЦ-PN~

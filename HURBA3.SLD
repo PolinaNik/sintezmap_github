@@ -1,0 +1,4 @@
+N: "GEO HURBA 3"
+L: <BLUE, full>
+L: * Маршрут N3 Для самолетов типа Су-24 * UHGEO33P1, UHGEO33P2, UHGEO33P3, UHGEO33P4
+, UHGEO33P5, UHGEO33P6

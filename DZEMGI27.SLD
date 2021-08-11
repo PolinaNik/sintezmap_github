@@ -1,0 +1,4 @@
+N: "GEO DZEMGI 27"
+L: <BLUE, full>
+L: * Маршрут N1рп Разведка погоды * UHGEO26P1, UHGEO26P2, UHGEO26P3, UHGEO26P4
+, UHGEO26P5

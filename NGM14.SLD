@@ -1,0 +1,52 @@
+N: "GEO NGM 14"
+
+S: "1" <R1> NGM1401 
+T: <R2> NGM1401  	/ ƒŽŽ‘’€‰ /
+S: "1" <R1> NGM1402 
+T: <R2> NGM1402   	/ ’.‹€‡“›‰ /
+S: "1" <R1> NGM1403 
+T: <R2> NGM1403   	/ ’.ŽŠ…€€ /
+S: "1" <R1> NGM1404 
+T: <R2> NGM1404  	/  /
+S: "1" <R1> NGM1405 
+T: <R2> NGM1405   	/ “..Œ€‰•… /
+S: "1" <R1> NGM1406 
+T: <R2> NGM1406   	/ ’.˜ŠŽ’Ž‚Ž /
+S: "1" <R1> NGM1407 
+T: <R2> NGM1407  	/ ’.˜’›ŠŽ‚Ž /
+S: "1" <R1> NGM1408 
+T: <R2> NGM1408   	/ ’.Œ€‰•… €-„ /
+S: "1" <R1> NGM1409 
+T: <R2> NGM1409  	/ ’.‡€‚Ž„‘ŠŽ‰ /
+S: "1" <R1> NGM1410 
+T: <R2> NGM1410   	/  /
+S: "1" <R1> NGM1411 
+T: <R2> NGM1411   	/  /
+S: "1" <R1> NGM1412 
+T: <R2> NGM1412  	/  /
+S: "1" <R1> NGM1413 
+T: <R2> NGM1413   	/ ’.……‚Ž‡Šˆ /
+S: "1" <R1> NGM1414 
+T: <R2> NGM1414   	/ ’.ŠŽ„€’…Ž‚Šˆ /
+S: "1" <R1> NGM1415 
+T: <R2> NGM1415  	/ ’.ƒŽŽ’€…†ŽƒŽ /
+S: "1" <R1> NGM1416 
+T: <R2> NGM1416   	/  /
+S: "1" <R1> NGM1417 
+T: <R2> NGM1417  	/ ’.“‘‘“ˆ‰‘Š€ /
+S: "1" <R1> NGM1418 
+T: <R2> NGM1418   	/ ’.ŽƒŽ‹žŽ‚Šˆ /
+S: "1" <R1> NGM1419 
+T: <R2> NGM1419   	/ ’.„€ˆ‹Ž‚Šˆ /
+S: "1" <R1> NGM1420 
+T: <R2> NGM1420  	/ ’.ˆŠŽ‹€…‚Šˆ /
+S: "1" <R1> NGM1421 
+T: <R2> NGM1421   	/ ’.ƒŽ€’Šˆ /
+S: "1" <R1> NGM1422 
+T: <R2> NGM1422   	/ ’.˜ˆŸ…‚Šˆ /
+S: "1" <R1> NGM1423 
+T: <R2> NGM1423  	/ ’.‘…ƒ“Ž‚Šˆ /
+
+L: <BLUE, full>
+L: * NGM14 * NGM1401, NGM1402, NGM1403, NGM1404, NGM1405, NGM1406,  NGM1407,  NGM1408, NGM1409, NGM1410, NGM1411, NGM1412, NGM1413,  NGM1414,  NGM1415, NGM1416, NGM1417, NGM1418, NGM1419, NGM1420, NGM1421, NGM1422,  NGM1423
+

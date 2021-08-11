@@ -1,0 +1,31 @@
+N: "STAR 23 AB" * èéÑïéÑ 23 (Çë äÄí A,B) *
+L: <BLACK> HHI (R = 2.15, HNP084G), HNP084E
+L: HNP084E (R = 2.15, HNP084C), HNP084A
+L: HHI, HNP084E
+L: HHI, ARKIK, ARGUK
+L: HHI, KORUM
+L: HHI, BITKI
+L: HHI, NEBES
+L: HHI, TIGMA
+
+******************* A.S. KRETOV ****************************************************
+L: ADEPI, HHI
+
+
+***V.S.Antonov-RVSM-09.11.11***
+*L: URESA, TOMSU, FI*
+*L: TOMSU, LATMA*
+*L: HNP084C, URESA*
+
+L: BITKI, SORUS
+L: ADEPI, OTMIR, AGUNI
+L: KORUM, ARDEL
+L: HHI, LOLSU, DIDEK, KUKEL, OLEGO
+L: HHI, LOLSU, RANOL, BIRBO
+L: HHI, GOLIS, IVADA, VANUL
+L: IVADA, NIKRA
+L: IVADA, URIMA
+L: IVADA, MOSOL
+
+
+***V.S.Antonov-RVSM-09.11.11***

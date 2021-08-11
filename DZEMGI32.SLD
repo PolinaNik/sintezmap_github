@@ -1,0 +1,4 @@
+N: "GEO DZEMGI 32"
+L: <BLUE, full>
+L: * Зона N1 Пилотажная зона * UHGEO50P1, UHGEO50P2, UHGEO50P3, UHGEO50P4
+, UHGEO50P5

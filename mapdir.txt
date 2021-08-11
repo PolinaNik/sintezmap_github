@@ -1,0 +1,47 @@
+solid land~~#a6a6a0~~~
+solid land~OCEAN~#9898a8~~~
+struc.(f.)-Z~~#b4b4b4~~aa55aa55aa55aa55~
+struc.(f.)-R~~#b4b4b4~~aa55aa55aa55aa55~
+struc.(f.)-A~~#b4b4b4~~aa55aa55aa55aa55~
+struc.(f.)-C~~#b4b4b4~~aa55aa55aa55aa55~
+bl - large c.~LARGE CITY~#909070~~~
+bl - small c.~SMALL CITY~#909070~~~
+bl - rural s.~RURAL~#909070~~~
+bl - hydro~HYDRO~#9898a8~~~
+scaled routes~~#909090~~~
+routes~~#909090~~~4
+local routes~~#909090~~~2
+closed~~#b59090~~55aa55aa55aa55aa~
+bl - forest~FOREST~#709070~~8855225588552255~
+bl - wetland~WETLAND~#7090a0~~8855225588552255~
+bl - scrub~SCRUB~#70a080~~8855225588552255~
+bl - orchard~ORCHARD~#70b088~~8855225588552255~
+bl - glacier~GLACIER~#7098b0~~8855225588552255~
+bl - building~BUILDING~#605040~~~
+bl - river~RIVER~#787888~~~
+bl - ditch~DITCH~#7a7a8a~~~
+bl - railway~RAILWAY~#707070~~~2
+bl - highway~HIGHWAY~#907070~~~2
+bl - roads~ROAD~#887878~~~
+bl - trail~TRAIL~#867a7a~~~
+bl - elevation~ELEVATION LINE~#806050~~~
+struc.(f.)-w.p.~~#907000~~8855225588552255~
+state border~~#aa8700~~~4
+FIR bounds~~#907000~~~3
+final - runways~~#606060~~~3
+Base - ~~#907000~-*-*-medium-r-normal--18-*-*-*-m-*-koi8-*~~
+rad. ~~#878787~~~
+coastline~SHORE LINE~#1b72bb~~~
+struc.(ou~~#606060~-*-*-medium-r-normal--14-*-*-*-m-*-koi8-*~~
+struc.(o.)-~~#907000~~~
+final 05~~#606060~-*-*-medium-r-normal--14-*-*-*-m-*-koi8-*~~
+final 23~~#606060~-*-*-medium-r-normal--14-*-*-*-m-*-koi8-*~~
+SID~~#606060~~~
+STAR~~#606060~~~
+GEO~~#606060~-*-*-medium-r-normal--14-*-*-*-m-*-koi8-*~~2
+designators~~#526600~-*-*-medium-r-normal--12-*-*-*-m-*-koi8-*~~
+bl - loc. des.~DESIGN MVL~#526600~-*-*-medium-r-normal--14-*-*-*-m-*-koi8-*~~
+bl - depth~DEPTH~#505050~~~
+bl - place~PLACE~#404040~-*-*-medium-r-normal--14-*-*-*-m-*-koi8-*~~
+points~~#606060~-*-*-medium-r-normal--14-*-*-*-m-*-koi8-*~~
+local points~~#606060~-*-*-medium-r-normal--14-*-*-*-m-*-koi8-*~~

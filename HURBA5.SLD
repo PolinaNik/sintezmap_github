@@ -1,0 +1,4 @@
+N: "GEO HURBA 5"
+L: <BLUE, full>
+L: * Маршрут N5 Для самолетов типа Су-24 * UHGEO35P1, UHGEO35P2, UHGEO35P3, UHGEO35P4
+, UHGEO35P5, UHGEO35P6

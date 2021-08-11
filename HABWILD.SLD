@@ -1,0 +1,18 @@
+N: "struc.(f.)-w.p." * Habarovsk *
+L: <RGB = 526600, fill> ZAP01
+,ZAP02
+,ZAP03
+,ZAP04
+,ZAP01
+L: ZAP05
+,ZAP06
+,ZAP07
+,ZAP08
+,ZAP05
+L: GG275
+,ZAP09
+,ZAP10
+,ZAP11
+,ZAP12
+,ZAP13
+,GG275
