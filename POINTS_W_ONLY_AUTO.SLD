@@ -1,4 +1,4 @@
-***ANTONOV V.S. 2021-8-4 10:59 Версия ARINC 2108***
+***Nikitich P.T. 2021-8-13 8:40 Версия ARINC 2108***
 N: "points 3" * points - Habarovsk Zonal Center ONLY IN TRASS*
 L: <BLACK>
 S: "1" <R1> N45450000E140543000

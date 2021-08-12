@@ -1,4 +1,4 @@
-***ANTONOV V.S. 2021-8-4 10:59 Версия ARINC 2108***
+***Nikitich P.T. 2021-8-13 8:40 Версия ARINC 2108***
 N: "designators 21" * route designators - Habarovsk *
 SA: 364.0
 SD: 0.0, 0.2

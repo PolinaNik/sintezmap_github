@@ -1,4 +1,4 @@
-***ANTONOV V.S. 2021-8-4 10:59 Версия ARINC 2108***
+***Nikitich P.T. 2021-8-13 8:40 Версия ARINC 2108***
 N: "points 2" * points - Habarovsk Zonal Center *
 L: <RED>
 S: "1" <R1> N58450700E159195000
@@ -1052,4 +1052,4 @@ T: <R2> N56213300E114552000 / YW /
 S: "9" <R3> N56213300E114552000
 T: <R2> N56213300E114552000 / YW / 
 S: "1" <R1> N46120000E131100000
-T: <R2> N46120000E131100000 /Cartography is created in 2021-8-4 10:59 Version of ARINC 2108*** /
+T: <R2> N46120000E131100000 /Cartography is created in 2021-8-13 8:40 Version of ARINC 2108*** /

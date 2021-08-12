@@ -1,4 +1,4 @@
-***ANTONOV V.S. 2021-8-4 10:59 Версия ARINC 2108***
+***Nikitich P.T. 2021-8-13 8:40 Версия ARINC 2108***
 N: "routes 10" * routes - Habarovsk Zonal Center *
 L: <BROWN,ffff,full>
 L: *A827* N61500700E160325700, N61250100E155540200, N60490700E152235000
