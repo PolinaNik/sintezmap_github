@@ -1,4 +1,4 @@
-***Nikitich P.T. 2021-8-13 8:40 Версия ARINC 2108***
+***Nikitich P.T. 2021-8-16 8:8 Версия ARINC 2108***
 N: "local routes"
 L: <BROWN,ffff,full>
 L: *KD100* N50533700E142072300, N50523800E142103200, N50400100E142460500

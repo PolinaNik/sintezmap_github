@@ -1,4 +1,4 @@
-***Nikitich P.T. 2021-8-13 8:40 Версия ARINC 2108***
+***Nikitich P.T. 2021-8-16 8:8 Версия ARINC 2108***
 N: "points" * points - Habarovsk Zonal Center *
 L: <BLACK>
 S: "1" <R1> N50122500E160223900

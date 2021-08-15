@@ -1,4 +1,4 @@
-***Nikitich P.T. 2021-8-13 8:40 Версия ARINC 2108***
+***Nikitich P.T. 2021-8-16 8:8 Версия ARINC 2108***
 N: "bl - loc. des." * local route designators - Habarovsk *
 SA: 338.9
 SD: 0.1, 0.2

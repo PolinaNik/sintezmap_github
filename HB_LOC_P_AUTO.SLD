@@ -1,4 +1,4 @@
-***Nikitich P.T. 2021-8-13 8:40 Версия ARINC 2108***
+***Nikitich P.T. 2021-8-16 8:8 Версия ARINC 2108***
 N: "local points"
 L: <BLACK>
 SD: 0.0, 0.0

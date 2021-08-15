@@ -1,4 +1,4 @@
-***Nikitich P.T. 2021-8-13 8:40 Версия ARINC 2108***
+***Nikitich P.T. 2021-8-16 8:8 Версия ARINC 2108***
 N: "designators 19" * zon designators - Habarovsk *
 SA: 279.2
 SD: 0.2, 0.0

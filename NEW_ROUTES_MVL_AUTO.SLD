@@ -1,4 +1,4 @@
-***Nikitich P.T. 2021-8-13 8:40 Версия ARINC 2108***
+***Nikitich P.T. 2021-8-16 8:8 Версия ARINC 2108***
 N: "routes 11" * routes - Habarovsk Zonal Center *
 L: <BROWN,ffff,full>
 L: *KD106* N52121300E141270500, N52120100E141400500, N52430100E141491700, N53033100E142283500
